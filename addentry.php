@@ -1,6 +1,7 @@
 <! –– Haroun Ahmad, Jeremy Nigg --->
 
 
+
 <?php
 $name = $_POST["name"];
 $email = $_POST["email"];

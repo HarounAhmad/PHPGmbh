@@ -1,6 +1,5 @@
 <! –– Haroun Ahmad, Jeremy Nigg --->
 
-
 <?php include 'header.html'?>
 
 <?php include("navigation.html") ?>
