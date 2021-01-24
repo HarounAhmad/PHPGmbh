@@ -1,0 +1,27 @@
+/* Haroun Ahmad, Jeremy Nigg*/
+
+body {
+    background-image: url("Dateien PHP GmbH/background.gif");
+    background-repeat: repeat-y;
+}
+
+#banner {
+    margin-left: 20px;
+    margin-top: 20px;
+    position: fixed;
+}
+
+nav {
+    padding-top: 100px;
+    display: grid;
+    grid-gap: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: 200px;
+
+}
+
